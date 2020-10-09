@@ -1,0 +1,23 @@
+{
+  "name": "siyakwenzela",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[A\u001b[B\u001b[BSocial network for service providers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "author": "Lusindiso Ntanjana",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.18"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0"
+  }
+}
