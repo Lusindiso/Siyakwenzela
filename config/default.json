@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://lusindiso:Aa12369874123@siyakwenzela.5gmry.mongodb.net/siyakwenzela?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
